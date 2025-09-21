@@ -14,7 +14,7 @@ Built for the Google Developer Society Hackathon, this project is designed to be
 
 
 
-Key Features
+Key Features: 
  Create or join private game rooms  
  Random movie prompts for acting  
  Built-in timer for each round  
